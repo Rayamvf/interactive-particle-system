@@ -1,3 +1,8 @@
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Raylib](https://img.shields.io/badge/raylib-8451a1?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=for-the-badge)
+![Status](https://img.shields.io/badge/Maintained%3F-yes-brightgreen?style=for-the-badge)
 # Interactive Physics Particle System
 
 A high-performance, real-time 2D particle engine developed using **C++** and the **raylib** framework. This project simulates complex particle behaviors by integrating Newtonian physics, vector mathematics, and interactive force fields.
